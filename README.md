@@ -1,2 +1,2 @@
-# -Software-Architecture-Overview-System-Design
+# Software-Architecture-Overview-System-Design
 Team 8
