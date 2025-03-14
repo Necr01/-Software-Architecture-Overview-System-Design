@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #28a745;
+    color: white;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.borrow {
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+
+.return {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+}
